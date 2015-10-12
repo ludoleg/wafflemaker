@@ -1,0 +1,16 @@
+{
+  "name": "gaufre",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "*",
+    "ejs": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Pour faire les gaufres",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "Ludovic Legrand",
+  "license": "ISC"
+}

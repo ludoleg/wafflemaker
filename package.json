@@ -2,8 +2,8 @@
   "name": "gaufre",
   "version": "1.0.0",
   "dependencies": {
-    "express": "~4.0.0",
-    "ejs": "~1.0.0"
+    "express": "*",
+    "ejs": "*"
   },
   "scripts": {
     "start": "node server.js"

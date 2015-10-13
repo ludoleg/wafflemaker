@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "description": "Pour faire les gaufres",
+  "description": "Pour faire les gaufres a la francaise",
   "main": "app.js",
   "devDependencies": {},
   "author": "Ludovic Legrand",
